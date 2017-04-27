@@ -1,0 +1,68 @@
+nodedef> name VARCHAR, label VARCHAR, hashtag_or_author VARCHAR, full_name VARCHAR, location VARCHAR, description VARCHAR, followers_count VARCHAR
+2865877606,"axiellalm","author","Axiell","24 offices worldwide","Official account of *The Number 1 in Collections Management Technology* for archives, libraries, museums.",734
+198c470f954d065141222b68634d8f98,CoP,"hashtag","","","",""
+7e87b2f3dfd974b61d66dbb3d63299e3,onlinecollections,"hashtag","","","",""
+a7cf28c4174c2f4f9975760b38150c22,linkedopendata,"hashtag","","","",""
+103256604,"kiryakov_ak","author","Atanas Kiryakov","Sofia","Founder and CEO of Ontontext. Expert in a range of areas referred as semantic technology - reasoning, search, data management. I like wine, jazz, poetry",363
+35672d5347cd8252d5e151040a20daec,LinkedOpenData,"hashtag","","","",""
+33893047,"ontotext","author","Ontotext","Sofia, Bulgaria","Providing a complete semantic platform for identifying meaning across unstructured data; Developer of GraphDB(tm), the industry leading RDF triplestore.",4151
+447891899,"desertnaut","author","desertnaut","Athens, Greece","Walking around, trying to make good things happen... Former UN Peacekeeper, now Data Scientist @ Nodalpoint Systems",837
+b948b539d85fb1b53b195627febce11d,LinkedData,"hashtag","","","",""
+24213535,"Brian_T_Nolan","author","Brian Nolan","Central Virginia","husband, father, artist, banjo & guitar player; linguist, occasional programmer, Solute Consulting, #aerospace. My opinions are my own, not my employers",400
+d81dcb96c7ab3ee3608397d0b0a9071c,OpenData,"hashtag","","","",""
+4218955305,"DiniAgFis","author","DINI AG FIS","","",89
+37ab815c056b5c5f600f6ac93e486a78,fis,"hashtag","","","",""
+284553,"Lambo","author","Lambert Heller ","Hannover, Deutschland","Librarian, speaker, consultant - on: Scholarly online practices, CRIS/FIS, OpenAccess, wiki*, library2.0. Head of @TIBHannovers Open Science Lab. Lets talk!",3726
+2495891294,"mvkennelly","author","Mike Kennelly","","IT Consultant at PWC - All posts are related to my own interests.",265
+839387636435419136,"palamonovgn","author","Zoe Poole","","",14
+88e81740471c79f558cbaefae0d36cb2,PIG,"hashtag","","","",""
+044bc06b120d5f8ec2eae4432e39c960,OtwarteDane,"hashtag","","","",""
+4054617587,"GeoforumPL","author","Geoforum.pl","","",163
+25257839,"micbuffa","author","Michel Buffa","","",685
+64721582,"omurphy16","author","Orla Murphy","University College Cork","Lecturer University College Cork Ireland, interested in digitality, remediation, the digital edition, open agenda publishing and scholarship",1923
+458692906,"tomasznalecz","author","Tomasz Nalecz","Polska","inspiruje  zarzadzanie informacja geoprzestrzenna, ex-dyrektor ds. geoinformacji w Panstwowym Instytucie Geologicznym Laczac odlegla przeszlosc z przyszloscia",110
+3012435040,"FunMooc","author","Plate-forme FUN-MOOC","","Infos, actus, retours dexperiences...  Tout sur #FunMooc la plate-forme  de #Mooc des etablissements de  l'#EnseignementSup francais et leurs partenaires",7770
+1011205039,"mnemotix","author","Mnemotix","Alpes-Maritimes - France","Ingenierie des connaissances et ingenierie documentaire pour les entreprises. #SemanticWeb",763
+782861450566070272,"CEMEC_EU","author","CEMEC","Amsterdam, The Netherlands","Connecting Early Medieval European Collections * EU FP7 * collaborative network * CROSSROADS exhibition",51
+f5c7f640b4ea527aaba67191a97472c9,CEMEC_EU,"hashtag","","","",""
+8742642,"evamen","author","Eva Mendez","EveryWhere","LIS prof @UC3M.es. Semantic Web & Open Knowledge militant. I think, I tweet...Sometimes I think more than I tweet, and sometimes I tweet more than I think.",2352
+76693160,"steltenpower","author","Ruud Steltenpool","Twente, EU","LINKing people+information+tools; for understanding. Unmasking ends as means #open #flow #data #viz #play #maker #design #web #edu #library #green #dad #energy",1486
+1115314512,"TheodoraPetkova","author","Teodora Petkova","Sofia","Content writer",1353
+edgedef> author_id VARCHAR, hashtag_id VARCHAR
+2865877606,198c470f954d065141222b68634d8f98
+2865877606,7e87b2f3dfd974b61d66dbb3d63299e3
+2865877606,a7cf28c4174c2f4f9975760b38150c22
+103256604,35672d5347cd8252d5e151040a20daec
+33893047,35672d5347cd8252d5e151040a20daec
+447891899,35672d5347cd8252d5e151040a20daec
+447891899,b948b539d85fb1b53b195627febce11d
+24213535,35672d5347cd8252d5e151040a20daec
+24213535,b948b539d85fb1b53b195627febce11d
+33893047,35672d5347cd8252d5e151040a20daec
+33893047,b948b539d85fb1b53b195627febce11d
+33893047,d81dcb96c7ab3ee3608397d0b0a9071c
+4218955305,37ab815c056b5c5f600f6ac93e486a78
+284553,37ab815c056b5c5f600f6ac93e486a78
+2495891294,35672d5347cd8252d5e151040a20daec
+2495891294,b948b539d85fb1b53b195627febce11d
+33893047,35672d5347cd8252d5e151040a20daec
+33893047,b948b539d85fb1b53b195627febce11d
+33893047,d81dcb96c7ab3ee3608397d0b0a9071c
+839387636435419136,88e81740471c79f558cbaefae0d36cb2
+839387636435419136,35672d5347cd8252d5e151040a20daec
+839387636435419136,044bc06b120d5f8ec2eae4432e39c960
+4054617587,88e81740471c79f558cbaefae0d36cb2
+4054617587,35672d5347cd8252d5e151040a20daec
+4054617587,044bc06b120d5f8ec2eae4432e39c960
+64721582,35672d5347cd8252d5e151040a20daec
+64721582,b948b539d85fb1b53b195627febce11d
+33893047,35672d5347cd8252d5e151040a20daec
+458692906,88e81740471c79f558cbaefae0d36cb2
+458692906,35672d5347cd8252d5e151040a20daec
+458692906,044bc06b120d5f8ec2eae4432e39c960
+1011205039,35672d5347cd8252d5e151040a20daec
+782861450566070272,f5c7f640b4ea527aaba67191a97472c9
+8742642,35672d5347cd8252d5e151040a20daec
+76693160,35672d5347cd8252d5e151040a20daec
+1115314512,35672d5347cd8252d5e151040a20daec
+1115314512,b948b539d85fb1b53b195627febce11d

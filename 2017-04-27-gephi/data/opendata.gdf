@@ -1,0 +1,375 @@
+nodedef> name VARCHAR, label VARCHAR, hashtag_or_author VARCHAR, full_name VARCHAR, location VARCHAR, description VARCHAR, followers_count VARCHAR
+842065660792451087,"abdy_airtel","author","Abdullah","","#Sports #politics #technologies #education #environment #current #industry",117
+334224194,"OBSAE","author","Observatorio eAdmon","Espana","Observatorio de Administracion Electronica. Novedades, eventos, soluciones, indicadores, informes, etc. de Administracion Electronica. Gobierno de Espana.",7805
+d81dcb96c7ab3ee3608397d0b0a9071c,OpenData,"hashtag","","","",""
+27860681,"WorldBank","author","World Bank","Washington, DC","The official World Bank Twitter feed. The World Banks mission is to fight poverty with passion and professionalism for lasting results.",2359958
+176841064,"BeckPitt","author","Beck Pitt","UK","Cat tamer, philosopher, lindy hopper & researcher on @OER_Hub @oepscotland & @bizmoocbook. Based @IETatOU @OpenUniversity. @Open_Con & @EssexPhilosophy alumni.",2129
+17434178a61806654821807ddedb2ea0,openaccess,"hashtag","","","",""
+713c8ce3d66cdac0a1e97cab02b0deb8,opendata,"hashtag","","","",""
+b655edc9aa463bb21a20c9436d88abea,OER,"hashtag","","","",""
+3221503505,"TheCollinsLaw","author","The Collins Law Firm","Naperville, IL","Attorneys focused on personal injury, environmental #contamination and business law. #PersonalInjury #Environment #Business  Posts [?] Legal Advice/Endorsement",34
+0c11e64cdb767abb1331a3e27ed900c5,Protest,"hashtag","","","",""
+a9638fa318fa8bb1283ac962f9052812,Trump,"hashtag","","","",""
+91b1adec3bc27df33b93816a60f08d6d,Pruitt,"hashtag","","","",""
+de3b5f3f3e4dcccb9bdf618270327bf0,EPA,"hashtag","","","",""
+2227213770,"GroundwaterLaw","author","The Collins Law Firm","Naperville, Illinois","Attorneys focused on environmental contamination law.Posts [?] Legal Advice/Endorsement.#Groundwater #Contamination #Environment  http://t.co/M9XOXmefYg",69
+2868176019,"Ben_Fournier_","author","Ben Fournier","Paris, France","All things Open data and Open source, for better lives, here and there. Data, mapping and training with @openstreetmap @OSM_FR @hotosm",405
+511446acc47de58db987c453f65fb367,crowdsourcing,"hashtag","","","",""
+7b334b7260361141659fa9862e803476,transport,"hashtag","","","",""
+115158b59ce9ad6dce51825fc51ed1f7,OSM,"hashtag","","","",""
+1395287478,"ThierryGautron","author","Thierry Gautron","Marseille","Principal Program Manager Capgemini - PER Marseille - passionne de linno techno, de la data analytics et du progres au quotidien En recherche de nvx challenges",153
+8f519ba5545b61b74b9400e79209cc2c,SmartCity,"hashtag","","","",""
+8f0b9bfb6168d9fb84bf06c54a07bd1b,GreenSI,"hashtag","","","",""
+0eff2fbb40d3f37abbb4dcaec72985e1,FranceIA,"hashtag","","","",""
+15814230,"ahzf","author","Achim Friedland","Jena, Germany","Is your data open and graphdefined? #OpenData, #Privacy and hypeless #Blockchains in #SmartMobility & #IoT for #eMobility #PublicTransport using #WWCP #GTFS",1091
+4f5dcb7f07e03873b14f3d9901ffb148,Wetterdaten,"hashtag","","","",""
+7e9cea4fb21abc9cd4eeee5116f7e101,OpenStreetMap,"hashtag","","","",""
+46895387,"jmarchant28","author","James Marchant","London","Research Manager @Small_Media. Tweets may include: Iran and MENA happenings, UK politics, and the choicest animal GIFs.",81
+2049a9430bf5783c11aefe6c516f84f3,TICTeC2017,"hashtag","","","",""
+36062ac14357c1789891dcd4e63e47ea,civictech,"hashtag","","","",""
+160877807,"MarkHahnel","author","Mark Hahnel","London","#openscience #openaccess #stemcells",6554
+224631899,"figshare","author","figshare","London","Securely store and manage your research outputs in the cloud, or make them openly available and citable (with a DOI) for free.  #research #data #management",30269
+2376886410,"arcopoleEF","author","arcOpole","Meudon, France","Le programme arcOpole est un espace d'echange accessible aux professionnels metiers des Collectivites Territoriales qui veulent tirer parti du SIG @Esri_France.",158
+722860459716534272,"smartcityfeed","author","Smart City Feed ","","Interested in Smart City news? I retweet #smartcity to collate. Follow for updates. A little bot by @matthew_jewell",7093
+6bebcca9a665a13a93f9f382a327f4b6,OPenData,"hashtag","","","",""
+11ea71f253acf02a2d126a0901e765a7,Maryland,"hashtag","","","",""
+5dac73aa49b9ccaca4b9b0d0ef615d10,Police,"hashtag","","","",""
+21536408,"cllrainslie","author","Paul Ainslie","www.paulainslie.com","Toronto City Councillor (Ward 43, Scarborough East) Gonna roll with me...gotta roll quickly - Shut up and Hold On by Toby Keith",9643
+c7735eaec829cb7ea3cc2e9ec4f27b6a,TOPoli,"hashtag","","","",""
+1034439470,"DagmedyaVeri","author","Veri Gazeteciligi","Istanbul","#VeriGazeteciligi #DataJournalism #DataDrivenJournalism #opendata #acikveri #vg #vgg #ddj #ddjedu",2073
+2acb6ca9b543667b716fff89ef310268,ODBarometer,"hashtag","","","",""
+1815235d384d2912d4668c73298f1e52,vg,"hashtag","","","",""
+cf297e613a7f7892a3bf348ee526abad,ddj,"hashtag","","","",""
+135830446,"coexel","author","Coexel","Toulon","COEXEL est specialisee en veille strategique et en intelligence economique pour les secteurs technologiques innovants",158
+f8ea9e07f542c0cdf0805e5f30c76cb6,agriculture,"hashtag","","","",""
+3935f8feee087b4547de27296ec777b9,transformation,"hashtag","","","",""
+d8301d666bfc96244ebf17998e7e6fb2,Opendata,"hashtag","","","",""
+304572237,"owenboswarva","author","Owen Boswarva","Europe (UK, but communautaire)","A mix of stuff: mainly information rights, #opendata, #osint, #dataprotection and data analytics. Also at @correlatedrisk and @datadaptive.",5122
+0f6956afb992fb6d1f39495b46c614b4,econstats,"hashtag","","","",""
+82d9e72a15664caadee07c5b11a8b9f8,Energietage,"hashtag","","","",""
+ee1611b61f5688e70c12b40684dbb395,Berlin,"hashtag","","","",""
+389b110027f48731fc621eed4ca37bc3,energiewende,"hashtag","","","",""
+a7304e71e071e089d5edf94ecca2c3c7,ict,"hashtag","","","",""
+3639330020,"justbehappy2014","author","Constitution!","","",122
+8563b7065e3cb3745437cf17ec30b536,COSINT,"hashtag","","","",""
+c407e8a237df27b56f1ebc020c489a6a,Pollution,"hashtag","","","",""
+1950230353,"ViveLabBogota","author","ViveLabBogota","Bogota ","Laboratorio de Innovacion de los ciudadanos.",4468
+327595908,"MC_NPL","author","MontCo-Norristown PL","Norristown, PA","Montgomery County-Norristown Public Library, a gateway to lifelong learning.",571
+394790422,"emibaldacci","author","emanuele baldacci","","Chief information officer @EU_Eurostat. Official statistician, economist, data analyst. Opinions are personal. RT not endorsement.",568
+3aefb76f8d53d8d1f7b160df9d2ac56d,fakenews,"hashtag","","","",""
+14478937,"lourdesmunoz","author","lourdes Munoz","Barcelona","#emprenedora #open #data #tic #donesenxarxa #comprometida #derechosdigitales #bigdata #igualtat #ogov #creativa #ingeniera #bcn  #websocial #opendata",11162
+3036737711,"MisterMMG","author","Michel Martinez","","",36
+3673569436,"BicimetroVA","author","Bicimetro","Valladolid, Castilla y Leon","#app para moverse de forma segura y rapida en #bicicleta por #Valladolid #Espana | #bici #bike | Proyecto de @AyuntamientoVLL | Desarrollo @GEOCyL & @PlumTIC",321
+66a976b4ae5b592fb6cff6b772e4403e,transporte,"hashtag","","","",""
+139113596,"balsamoluca","author","Luca Balsamo","Italy","Project Manager collaboratore presso LISPA SISS FSE",66
+3198095872,"AntjeTheise","author","Antje Theise","Hamburg, Deutschland","Librarian at @StabiHH, Rare Books, Special Collections, Latin Poetry 16th/17th century, Emblems, Bookbinding ... and wife, mother of two, sister, friend ...",1261
+58303175c52c131ddf2ce02c4ace747c,hires,"hashtag","","","",""
+159dbc1c76cc6320df1df8eabb3892b6,photographs,"hashtag","","","",""
+ddd1538bd592ec33ead0a0053b2b24a2,CCBY,"hashtag","","","",""
+1d4719fb5e236361019241010e1fbe69,museums,"hashtag","","","",""
+1453200823,"geothinkca","author","Geothink.ca","Canada","Largest Canadian research grant on #geoweb #crowdsourcing #CitizenScience & #OpenData for city-citizen interactions. Funded by @SSHRC_CRSH, headed by @RE_Sieber",616
+22963604,"debbylf","author","Debby Freedman","Philly","Fighting poverty & injustice as Executive Director of @clsphila . Philly parent -- of teenagers. Survivor. Views are my own.",458
+2812b4e19070ea4d3febb4284800728a,PhillyDA,"hashtag","","","",""
+20000305,"BennettMike","author","Mike Bennett","UK and France","Director, Public Intelligence & UK Research and Consulting Services. Fellow, St Andrews Uni. Senior Advisor, Newton Europe. Former MD of SOLACE.",1056
+75249632,"JLZIMMERMANN","author","J-Louis ZIMMERMANN","","OpenStreetMap-FR | Mapillary | prospective |dev durable | innovat* | art | bien commun | ecologie humaine | complexite | inclusion | design thinking | Wikidata",1532
+6e4b38bfd57741ac1597c440a1c98074,Bus,"hashtag","","","",""
+09cec03bd8f1f41891564cdef99dca6c,JungleBus,"hashtag","","","",""
+905717030,"pide2001","author","Peter Bolch","Mars","",62
+22446647,"nykb","author","Krista Brenner","NY","Sunlight",774
+cd78bc19e05673620dc72b2c7ea152ed,DKAN,"hashtag","","","",""
+2274292160,"ActorAtlas","author","#2030Agenda #tags","atria.us","#2030Agenda hashtags and wiki for #progress, #accountability, #sustainability, #resilience; Tags/wiki at  https://t.co/oe5DSec7fl , Tweets by @collaboratewiki",937
+167818730,"YVT","author","YVT / kawaniyan","Nagoya, Japan","NU-IS M1/gemuKai Fa  (https://t.co/X5EpjdPLgG)/Xin Hao Chu Li (https://t.co/1q8uzPD0qd)/Dian Zi Gong Xue /Wu Qian 3Shi noCi Cheng Xian  (https://t.co/0HPtGh31Xo)/Zu Ip mishisutemu/MLP/huotogurahui/en: @yvt_en",957
+ff5fc8b5f005d6423f7844ba4a1ead1b,lidar,"hashtag","","","",""
+423369901,"bcn_ajuntament","author","Ajuntament de BCN","Barcelona","Canal de lAjuntament de Barcelona per informar-te amb transparencia i fomentar la participacio ciutadana a Barcelona.",133232
+372561e273bd7b1a65c9cb04047a182e,opendataBCN,"hashtag","","","",""
+0c22c618bec7e773638dbb88f528ad11,DrupalCon,"hashtag","","","",""
+1726070564,"issy_media","author","Issy Media","Issy-les-Moulineaux","#Communication et #innovation #numerique de la ville d#Issy #compublique #marketerr @Issylesmoul @SO_digital",1222
+37da98463b426590bfb1ed7ce02afe8f,Issy,"hashtag","","","",""
+255760213,"tobias47n9e","author","Tobias Schonberg","Europe","Mostly tweets about Wikidata and Wikipedia.",138
+783585450665582592,"OpenDataMonkey","author","OpenDataMonkey","The Netherlands","This Monkey Mind is Entertained by Free and #OpenData",2745
+3f75572ed50d41c7ac31c8781a361521,JSCDataScienceDay,"hashtag","","","",""
+42977027,"TransOps","author","James Witherspoon","","",20
+110826956,"iainh_z","author","Iain Hz","","Head of Data Publishing at Springer Nature. I help put research data on the Internet. Occasionally stray into wine, music, food, running & NCFC. Opinions my own",860
+15808736,"syoyo","author","Syoyo Fujita","Left-handed coordinate.","Light Transport Architect. No ray tracing, no life.",2284
+791608741837832192,"therogue_astro","author","The Rogue Astronaut","United Kingdom","Astronomer & Astrophotographer - Bringing together all things astronomy, astrophysics, cosmology and planetary science. You wont like me when its cloudy.",1004
+3e22b42172ad45762966f68d9dcf2499,NASADatanauts,"hashtag","","","",""
+2690652628,"atekashubbar","author","`tk@ shubWar","l lHmq@ '`yt mn ydwyh","krm@ lnsn hy Gyty w hwyty hy lnsny@ Human dignity is my ultimate goal and humanity is my identity mjstyr `lqt dwly@ | mtzwj@ w 'm | tGrydty fy [?]",22435
+2373027864,"RichardNollen","author","Richard Nollen","United States","Nurse entrepreneur",100
+2929342168,"Issy_Presse","author","Issy Presse","Issy-les-Moulineaux","Twitter de la ville d@Issylesmoul pour les journalistes #Urbanisme #Culture #Numerique #Social #Finances... Nous avons des choses a nous dire  01.41.23.82.58",473
+2802279865,"nviscogliosi","author","Nadia Viscogliosi","Domremy la Pucelle","Conseil departemental des Vosges, Chargee du #developpementnumerique a la Direction de la #Culture, du #Sport et de la Jeunesse #innovation #musee #artsvivants",39
+fae8117a1f41af2f68ac54acbaeb440d,territoires,"hashtag","","","",""
+180317088,"RobRe62","author","Roberto Re","Milano +45.465556deg, +9.190000deg","Ich bin ein Mailander,independent analytical thinker.Fulltime student of News RT=FYI  #MIlano #networker   1/2ROBot #arduino #TweetMI  #BigData",18555
+4c19ae3d6a0dd6bd754a23738b848f9d,OD4CH,"hashtag","","","",""
+279477355,"LAStools","author","Martin Isenburg","","efficient scriptable, multi-core tools for LiDAR processing with GUI and toolbox for ArcGIS 9.3 - 10.2 and QGIS 1.8 - 2.4 http://t.co/X75BmxhPJL",3921
+1726914156,"tceles_B_hsup","author","Will Cross","","A magic spell?",328
+f59750e1a24e11056a612b2ec8df4e5d,DSVIL,"hashtag","","","",""
+29143332,"LisaAbeyta","author","Lisa Abeyta","Albuquerque, New Mexico, USA","Founded @APPCityLife, Cofounded @Hautepreneurs & @HauteHopesNM. I write from time to time for @Inc. & @HuffingtonPost ... but mostly just me being me.",3340
+831445828149661697,"DataPitchEU","author","Data Pitch","Europe","Bringing together established businesses and startups to meet challenges with data. Launching in Spring 2017.",158
+10823742,"darameja","author","Darameja","Brussels, Belgium","I work in the European space industry. Also film blogger, #Cyberpunk fan. Mostly geeky sometimes not. #tech #VR #coffee #marketing #space #IoT",1976
+8d777f385d3dfec8815d20f7496026dc,data,"hashtag","","","",""
+2811376426,"un_data","author","UN data","","Data from the United Nations and International organizations  #OpenData #BigData #data #Datarev",768
+3d08ab7a598a316024f5f3200ddaa8c4,SDG4,"hashtag","","","",""
+6fccfd1113a6cbae5d03afe86c35d79a,GAWE2017,"hashtag","","","",""
+217473382,"InseeFr","author","Insee","France","Compte officiel de l'Insee. #Statistiques et etudes sur l#economie et la #societe francaises. http://t.co/RRuN97udi6",53502
+321630247,"CrespiDaniele","author","Daniele Crespi","Milan, Italy","Working on ICT since 1985. Interested on #eGov #eID #DigitalAgenda #OpenGov #OpenData #IoT #BigData #openinnovation",638
+9ad0574b6abbced4fdfd4adb598c2b29,Lombardia,"hashtag","","","",""
+553948069,"PamelaSamuelson","author","Pamela Samuelson","UC Berkeley","Copyright, Internet Law, Privacy, EFF, EPIC, @auths_alliance, BCLT",3163
+2ae41fa6dbd644a6846389ad14167167,copyright,"hashtag","","","",""
+840595249,"Georgia42946110","author","Georgia Morgan","","participant observer",19
+737233371324121089,"iopendatabcn","author","Iopendatabcn","","Promover datos abiertos, #opendata #ciudadania #formacion  #conocimiento #empreder #startup",1808
+268275584,"llipparini","author","Lorenzo Lipparini","Milano, Lombardia","Assessore alla Partecipazione, cittadinanza attiva e open data del Comune di Milano. Radicale",1534
+1678832936,"SignoraRamsay","author","Eusebia Parrotto","","bibliotecaria, wikipediana",307
+1296309756,"francigambetta","author","Francesca Gambetta","","Program Manager Cultural Innovation Area in Compagnia di San Paolo",155
+ec9ba88f9e74d0f1d0d0cb2f287a338b,innovazioneculturale,"hashtag","","","",""
+de9ee57c39d8dfbe3eb0b6e03bceae6e,Datavisualization,"hashtag","","","",""
+53b9e9679a8ea25880376080b76f98ad,call,"hashtag","","","",""
+361099151,"flecorre2","author","Francois Le Corre","Paris","Data Science Director @VelvetExperts - Analytics into Business- Data enthusiast. Interests: #BigData , #Marketing, #Technology",71
+00f2b1ead3a0990b818517356cb40280,chatbot,"hashtag","","","",""
+7a9e6517b879291cd048d0fa7f6b759f,BigData,"hashtag","","","",""
+c769c2bd15500dd906102d9be97fdceb,marketing,"hashtag","","","",""
+e8a2a4441286cbf645bb3ed980937857,velvetconsulting,"hashtag","","","",""
+719573147779997697,"UKAdata4good","author","UKAdata4good","","",155
+0e6395c16cfb11934509421d009b1b1b,machinelearning,"hashtag","","","",""
+1035d426762d0c4f7a62a27be8a3a82b,publicservices,"hashtag","","","",""
+568565386,"Jason_Plautz","author","Jason Plautz","Washington, D.C.","Reporter for @nationaljournal. Formerly @EENewsUpdates. jplautz at nationaljournal dot com. Signal: 8478262157",2289
+715491977274335234,"smarticipate","author","smarticipate","","The Horizon 2020 funded #smarticipate project aims to use open data to give citizens the information needed to shape their city. https://t.co/Pl0hGqe9lj",501
+844706131498946560,"PoliceOpenData","author","Police Open Data","Washington, DC","Twitter feed of the Police Data Initiative. Supported by the Police Foundation (https://t.co/OhyTAJAXdV). #opendata. Mentions/RTs not endorsements.",113
+814989b983fd853fb374e1676a06ade4,police,"hashtag","","","",""
+278147453,"UNESCOstat","author","UNESCO Statistics","Montreal, Canada","@UNESCO Institute for Statistics is the official source for internationally-comparable data on education, R&D, culture, communication & SDGs",9238
+28336576,"nigelwallis","author","Nigel Wallis","","IDC Canada VP. IoT, M2M, Verticals, SW, analytics, cloud & more whimsical pursuits. RTs[?]endorsements. Opinions are (mostly) mine & not IDCs.",1584
+de8655f70f78851ffc8ee85e132e7314,SASGov,"hashtag","","","",""
+352615777,"PleasureEthics","author","Marie Donelly","England, United Kingdom","Filing myself under alternative living. Evolving metaphysics to where it should be, art & science combined for a truer bigger picture.",7851
+cb29b3c545eb31782032041596179c7e,smartcities,"hashtag","","","",""
+27819cfe72583a34d13a40bb74154c91,bigdata,"hashtag","","","",""
+4921c0e2d1f6005abe1f9ec2e2041909,ai,"hashtag","","","",""
+98982012,"HSWAthensTX","author","Hope Springs Water","Athens, TX","Well drilling, latrine building, hygiene training so hope springs everywhere!",263
+f5cd262901883dff68d06b215fb0f28e,Africa,"hashtag","","","",""
+737319701026623488,"niagaraopendata","author","Niagaraopendata","Niagara, Ontario","Working together to put data in the hands of the people.",148
+49ab28040dfa07f53544970c6d147e1e,Connect,"hashtag","","","",""
+3740214921,"EU_DataPortal","author","European Data Portal","","The European Data Portal harvests the metadata of Public Sector Information available on public data portals across all European countries #OpenData",11139
+598b3d98e5e98e653dfd6b83c33d74cf,SheelanaGigs,"hashtag","","","",""
+111399124,"unfpaeecaro","author","UNFPA EECARO","Eastern Europe & Central Asia","Join us to deliver a world where every pregnancy is wanted, every childbirth is safe and every young persons potential is fulfilled",1216
+e7a30019d1e0151cbafcff60f2d643b8,domesticviolence,"hashtag","","","",""
+821637946877026305,"Flourish_Cars","author","FLOURISH Mobility","Bristol, England","An exciting Connected and Autonomous Vehicle (CAV) project aiming for empowerment through trusted and secure mobility.",86
+142425191,"Bratsas","author","Charalampos Bratsas","Thessaloniki, Greece","OKF Greece coordinator, linked open data, open data, semantic web  National ePSIplatform Correspondent (Greece & Cyprus)",553
+640e6c1fb5e73b7c0c6a33c8c4f62749,clinicaltrials,"hashtag","","","",""
+63d72bcd995112b92c9316c22e368550,clinicaltrial,"hashtag","","","",""
+d9e5d212320e7d96e921831554be696d,medicine,"hashtag","","","",""
+e34fcd27f251aa8da18b6a9f114ccc5c,medicalresearch,"hashtag","","","",""
+d1ad3553aac1a7bdd7260eae71674ba9,pharma,"hashtag","","","",""
+8266cbec2295ae2c548563d169e3ee28,drugs,"hashtag","","","",""
+0b6e914ba5e63d0c668d1ac4d8845079,openscience,"hashtag","","","",""
+4412342d7b60478b8486587166336436,healthdata,"hashtag","","","",""
+7bb5d1e69260e6bd0e746544d3ec221f,data4good,"hashtag","","","",""
+1469019624,"DiliDennis","author","Dennis Kinyua","Kenya","A christian disciple, a servant leader and a statistician by profession.",102
+4872714611,"PetiteGuerriero","author","Lise Guerriero","Paris, France","Objectifs: reformer les Beatles, explorer Mars, faire la paix dans le monde, avoir une licorne magique, et trouver le sens de la vie (par la a priori) #i4emploi",286
+847474843582840832,"StutiSaxenaOGD","author","Stuti Saxena","India","Im a homo sapien.",32
+c44facaee90897d4d40cf1a665977cce,OpenGov,"hashtag","","","",""
+76423d8352c9e8fc8d7d65f62c55eae9,UK,"hashtag","","","",""
+c33e404a441c6ba9648f88af3c68a1ca,Statistics,"hashtag","","","",""
+a3a5ef5ccef664818cd6ba9dc23907f6,Employment,"hashtag","","","",""
+818591,"ahoppin","author","Andrew Hoppin","","@GetDKAN @GlobalIntegrity #OpenData; former NYSenate CIO, open source & civic tech entrepreneur; planetary geologist; synthesizer",5123
+2873992843,"UN_InTIColombia","author","UN Inticolombia","Universidad Nacional","Transformamos con el uso de las TIC. Grupo de investigacion, innovacion, gestion y ejecucion de proyectos relacionados con TIC",260
+104520454,"alevergara78","author","alejandro vergara","Santiago, Chile","Any fool can write code that a computer can understand. Good programmers write code that humans can understand. Martin Fowler. #BigData  #machinelearning",5677
+0a9435d2d3e28d89e46dafe11a112398,webscraping,"hashtag","","","",""
+15533664,"prasannalaldas","author","Prasanna Lal Das","","A little bit of this, a little bit of that...",570
+68c4283db8074b12df1660b31c0220a9,analytics,"hashtag","","","",""
+2b0aaa168ef84658d3b64114070b4edc,globaldev,"hashtag","","","",""
+edgedef> author_id VARCHAR, hashtag_id VARCHAR
+334224194,d81dcb96c7ab3ee3608397d0b0a9071c
+176841064,17434178a61806654821807ddedb2ea0
+176841064,713c8ce3d66cdac0a1e97cab02b0deb8
+176841064,b655edc9aa463bb21a20c9436d88abea
+3221503505,0c11e64cdb767abb1331a3e27ed900c5
+3221503505,a9638fa318fa8bb1283ac962f9052812
+3221503505,91b1adec3bc27df33b93816a60f08d6d
+3221503505,de3b5f3f3e4dcccb9bdf618270327bf0
+2227213770,0c11e64cdb767abb1331a3e27ed900c5
+2227213770,a9638fa318fa8bb1283ac962f9052812
+2227213770,91b1adec3bc27df33b93816a60f08d6d
+2227213770,de3b5f3f3e4dcccb9bdf618270327bf0
+2868176019,511446acc47de58db987c453f65fb367
+2868176019,713c8ce3d66cdac0a1e97cab02b0deb8
+2868176019,7b334b7260361141659fa9862e803476
+2868176019,115158b59ce9ad6dce51825fc51ed1f7
+1395287478,8f519ba5545b61b74b9400e79209cc2c
+1395287478,8f0b9bfb6168d9fb84bf06c54a07bd1b
+1395287478,0eff2fbb40d3f37abbb4dcaec72985e1
+15814230,4f5dcb7f07e03873b14f3d9901ffb148
+15814230,d81dcb96c7ab3ee3608397d0b0a9071c
+2868176019,713c8ce3d66cdac0a1e97cab02b0deb8
+2868176019,7e9cea4fb21abc9cd4eeee5116f7e101
+46895387,2049a9430bf5783c11aefe6c516f84f3
+46895387,713c8ce3d66cdac0a1e97cab02b0deb8
+46895387,36062ac14357c1789891dcd4e63e47ea
+160877807,713c8ce3d66cdac0a1e97cab02b0deb8
+224631899,713c8ce3d66cdac0a1e97cab02b0deb8
+2376886410,713c8ce3d66cdac0a1e97cab02b0deb8
+722860459716534272,6bebcca9a665a13a93f9f382a327f4b6
+722860459716534272,11ea71f253acf02a2d126a0901e765a7
+722860459716534272,5dac73aa49b9ccaca4b9b0d0ef615d10
+722860459716534272,d81dcb96c7ab3ee3608397d0b0a9071c
+21536408,d81dcb96c7ab3ee3608397d0b0a9071c
+21536408,c7735eaec829cb7ea3cc2e9ec4f27b6a
+21536408,6bebcca9a665a13a93f9f382a327f4b6
+21536408,11ea71f253acf02a2d126a0901e765a7
+21536408,5dac73aa49b9ccaca4b9b0d0ef615d10
+21536408,c7735eaec829cb7ea3cc2e9ec4f27b6a
+1034439470,2acb6ca9b543667b716fff89ef310268
+1034439470,713c8ce3d66cdac0a1e97cab02b0deb8
+1034439470,1815235d384d2912d4668c73298f1e52
+1034439470,cf297e613a7f7892a3bf348ee526abad
+135830446,f8ea9e07f542c0cdf0805e5f30c76cb6
+135830446,3935f8feee087b4547de27296ec777b9
+135830446,d81dcb96c7ab3ee3608397d0b0a9071c
+21536408,d8301d666bfc96244ebf17998e7e6fb2
+21536408,c7735eaec829cb7ea3cc2e9ec4f27b6a
+304572237,0f6956afb992fb6d1f39495b46c614b4
+304572237,713c8ce3d66cdac0a1e97cab02b0deb8
+15814230,82d9e72a15664caadee07c5b11a8b9f8
+15814230,ee1611b61f5688e70c12b40684dbb395
+15814230,713c8ce3d66cdac0a1e97cab02b0deb8
+15814230,389b110027f48731fc621eed4ca37bc3
+15814230,a7304e71e071e089d5edf94ecca2c3c7
+3639330020,d8301d666bfc96244ebf17998e7e6fb2
+3639330020,8563b7065e3cb3745437cf17ec30b536
+21536408,d8301d666bfc96244ebf17998e7e6fb2
+21536408,c407e8a237df27b56f1ebc020c489a6a
+1950230353,d81dcb96c7ab3ee3608397d0b0a9071c
+327595908,d81dcb96c7ab3ee3608397d0b0a9071c
+394790422,3aefb76f8d53d8d1f7b160df9d2ac56d
+14478937,d81dcb96c7ab3ee3608397d0b0a9071c
+3036737711,d8301d666bfc96244ebf17998e7e6fb2
+3673569436,d81dcb96c7ab3ee3608397d0b0a9071c
+3673569436,66a976b4ae5b592fb6cff6b772e4403e
+139113596,d81dcb96c7ab3ee3608397d0b0a9071c
+3198095872,58303175c52c131ddf2ce02c4ace747c
+3198095872,159dbc1c76cc6320df1df8eabb3892b6
+3198095872,ddd1538bd592ec33ead0a0053b2b24a2
+3198095872,713c8ce3d66cdac0a1e97cab02b0deb8
+3198095872,1d4719fb5e236361019241010e1fbe69
+1453200823,d81dcb96c7ab3ee3608397d0b0a9071c
+1453200823,2acb6ca9b543667b716fff89ef310268
+3673569436,d81dcb96c7ab3ee3608397d0b0a9071c
+3673569436,8f519ba5545b61b74b9400e79209cc2c
+22963604,d81dcb96c7ab3ee3608397d0b0a9071c
+22963604,2812b4e19070ea4d3febb4284800728a
+20000305,713c8ce3d66cdac0a1e97cab02b0deb8
+75249632,6e4b38bfd57741ac1597c440a1c98074
+75249632,09cec03bd8f1f41891564cdef99dca6c
+75249632,713c8ce3d66cdac0a1e97cab02b0deb8
+75249632,511446acc47de58db987c453f65fb367
+905717030,4f5dcb7f07e03873b14f3d9901ffb148
+905717030,d81dcb96c7ab3ee3608397d0b0a9071c
+22446647,cd78bc19e05673620dc72b2c7ea152ed
+22446647,d81dcb96c7ab3ee3608397d0b0a9071c
+2274292160,713c8ce3d66cdac0a1e97cab02b0deb8
+167818730,713c8ce3d66cdac0a1e97cab02b0deb8
+167818730,ff5fc8b5f005d6423f7844ba4a1ead1b
+423369901,372561e273bd7b1a65c9cb04047a182e
+22446647,cd78bc19e05673620dc72b2c7ea152ed
+22446647,d81dcb96c7ab3ee3608397d0b0a9071c
+22446647,0c22c618bec7e773638dbb88f528ad11
+1726070564,37da98463b426590bfb1ed7ce02afe8f
+1726070564,713c8ce3d66cdac0a1e97cab02b0deb8
+783585450665582592,3f75572ed50d41c7ac31c8781a361521
+783585450665582592,d81dcb96c7ab3ee3608397d0b0a9071c
+783585450665582592,713c8ce3d66cdac0a1e97cab02b0deb8
+783585450665582592,ff5fc8b5f005d6423f7844ba4a1ead1b
+783585450665582592,713c8ce3d66cdac0a1e97cab02b0deb8
+42977027,d81dcb96c7ab3ee3608397d0b0a9071c
+110826956,713c8ce3d66cdac0a1e97cab02b0deb8
+15808736,713c8ce3d66cdac0a1e97cab02b0deb8
+15808736,ff5fc8b5f005d6423f7844ba4a1ead1b
+791608741837832192,3f75572ed50d41c7ac31c8781a361521
+791608741837832192,d81dcb96c7ab3ee3608397d0b0a9071c
+791608741837832192,3e22b42172ad45762966f68d9dcf2499
+2929342168,37da98463b426590bfb1ed7ce02afe8f
+2929342168,713c8ce3d66cdac0a1e97cab02b0deb8
+2802279865,d81dcb96c7ab3ee3608397d0b0a9071c
+2802279865,fae8117a1f41af2f68ac54acbaeb440d
+180317088,4c19ae3d6a0dd6bd754a23738b848f9d
+180317088,d81dcb96c7ab3ee3608397d0b0a9071c
+279477355,713c8ce3d66cdac0a1e97cab02b0deb8
+279477355,ff5fc8b5f005d6423f7844ba4a1ead1b
+279477355,713c8ce3d66cdac0a1e97cab02b0deb8
+279477355,ff5fc8b5f005d6423f7844ba4a1ead1b
+1726914156,d81dcb96c7ab3ee3608397d0b0a9071c
+1726914156,f59750e1a24e11056a612b2ec8df4e5d
+29143332,d81dcb96c7ab3ee3608397d0b0a9071c
+831445828149661697,d81dcb96c7ab3ee3608397d0b0a9071c
+10823742,8d777f385d3dfec8815d20f7496026dc
+10823742,713c8ce3d66cdac0a1e97cab02b0deb8
+2811376426,3d08ab7a598a316024f5f3200ddaa8c4
+2811376426,6fccfd1113a6cbae5d03afe86c35d79a
+2811376426,713c8ce3d66cdac0a1e97cab02b0deb8
+217473382,d8301d666bfc96244ebf17998e7e6fb2
+321630247,d81dcb96c7ab3ee3608397d0b0a9071c
+321630247,9ad0574b6abbced4fdfd4adb598c2b29
+553948069,2ae41fa6dbd644a6846389ad14167167
+553948069,d81dcb96c7ab3ee3608397d0b0a9071c
+737233371324121089,d81dcb96c7ab3ee3608397d0b0a9071c
+268275584,4c19ae3d6a0dd6bd754a23738b848f9d
+268275584,d81dcb96c7ab3ee3608397d0b0a9071c
+1678832936,713c8ce3d66cdac0a1e97cab02b0deb8
+1296309756,ec9ba88f9e74d0f1d0d0cb2f287a338b
+1296309756,713c8ce3d66cdac0a1e97cab02b0deb8
+1296309756,de9ee57c39d8dfbe3eb0b6e03bceae6e
+1296309756,53b9e9679a8ea25880376080b76f98ad
+361099151,713c8ce3d66cdac0a1e97cab02b0deb8
+361099151,00f2b1ead3a0990b818517356cb40280
+361099151,7a9e6517b879291cd048d0fa7f6b759f
+361099151,8d777f385d3dfec8815d20f7496026dc
+361099151,c769c2bd15500dd906102d9be97fdceb
+361099151,e8a2a4441286cbf645bb3ed980937857
+719573147779997697,713c8ce3d66cdac0a1e97cab02b0deb8
+719573147779997697,0e6395c16cfb11934509421d009b1b1b
+719573147779997697,1035d426762d0c4f7a62a27be8a3a82b
+21536408,d81dcb96c7ab3ee3608397d0b0a9071c
+21536408,c7735eaec829cb7ea3cc2e9ec4f27b6a
+715491977274335234,d81dcb96c7ab3ee3608397d0b0a9071c
+844706131498946560,814989b983fd853fb374e1676a06ade4
+844706131498946560,713c8ce3d66cdac0a1e97cab02b0deb8
+278147453,3d08ab7a598a316024f5f3200ddaa8c4
+278147453,6fccfd1113a6cbae5d03afe86c35d79a
+278147453,713c8ce3d66cdac0a1e97cab02b0deb8
+28336576,d81dcb96c7ab3ee3608397d0b0a9071c
+28336576,de8655f70f78851ffc8ee85e132e7314
+352615777,713c8ce3d66cdac0a1e97cab02b0deb8
+352615777,cb29b3c545eb31782032041596179c7e
+352615777,27819cfe72583a34d13a40bb74154c91
+352615777,4921c0e2d1f6005abe1f9ec2e2041909
+98982012,d81dcb96c7ab3ee3608397d0b0a9071c
+98982012,f5cd262901883dff68d06b215fb0f28e
+737319701026623488,49ab28040dfa07f53544970c6d147e1e
+737319701026623488,d81dcb96c7ab3ee3608397d0b0a9071c
+3740214921,d81dcb96c7ab3ee3608397d0b0a9071c
+304572237,598b3d98e5e98e653dfd6b83c33d74cf
+304572237,713c8ce3d66cdac0a1e97cab02b0deb8
+111399124,e7a30019d1e0151cbafcff60f2d643b8
+142425191,640e6c1fb5e73b7c0c6a33c8c4f62749
+142425191,63d72bcd995112b92c9316c22e368550
+142425191,d9e5d212320e7d96e921831554be696d
+142425191,e34fcd27f251aa8da18b6a9f114ccc5c
+142425191,d1ad3553aac1a7bdd7260eae71674ba9
+142425191,8266cbec2295ae2c548563d169e3ee28
+142425191,713c8ce3d66cdac0a1e97cab02b0deb8
+142425191,0b6e914ba5e63d0c668d1ac4d8845079
+142425191,4412342d7b60478b8486587166336436
+142425191,7bb5d1e69260e6bd0e746544d3ec221f
+4872714611,d81dcb96c7ab3ee3608397d0b0a9071c
+847474843582840832,c44facaee90897d4d40cf1a665977cce
+847474843582840832,76423d8352c9e8fc8d7d65f62c55eae9
+847474843582840832,d81dcb96c7ab3ee3608397d0b0a9071c
+847474843582840832,c33e404a441c6ba9648f88af3c68a1ca
+847474843582840832,a3a5ef5ccef664818cd6ba9dc23907f6
+818591,cd78bc19e05673620dc72b2c7ea152ed
+818591,d81dcb96c7ab3ee3608397d0b0a9071c
+104520454,27819cfe72583a34d13a40bb74154c91
+104520454,0e6395c16cfb11934509421d009b1b1b
+104520454,0a9435d2d3e28d89e46dafe11a112398
+15533664,27819cfe72583a34d13a40bb74154c91
+15533664,0e6395c16cfb11934509421d009b1b1b
+15533664,0a9435d2d3e28d89e46dafe11a112398
+15533664,68c4283db8074b12df1660b31c0220a9
+15533664,2b0aaa168ef84658d3b64114070b4edc
