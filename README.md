@@ -1,0 +1,5 @@
+Practicals for the seminar "In data we trust: Fairness, accountability and transparency" by Dr. Juliane Jarke (University of Bremen), Hendrik Heuer, MSc. (University of Bremen) and Prof. Dr. Raoni Rajão (Federal University of Minas Gerais, Brazil). 
+
+The aim of the seminar is to encourage students to appreciate the complex nature of the relationship between “data and society” (in particular environmental activism and open data) and develop a critical understanding of the notions of (open) data, trust, and civic participation. Students will be introduced to advanced data science and digital methods as well as qualitative methods (such as interviews) in order to conduct their own research in small, interdisciplinary teams.
+
+Link: https://agim.uni-bremen.de/lehrveranstaltung/in-data-we-trust-fairness-accountability-and-transparency/
