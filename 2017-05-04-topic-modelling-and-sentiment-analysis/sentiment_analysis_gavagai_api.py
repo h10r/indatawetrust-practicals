@@ -4,9 +4,10 @@ from __future__ import unicode_literals
 import sys
 import os.path
 import json
-import codecs
 import requests
 import pickle
+from unidecode import unidecode
+from nltk.tokenize import sent_tokenize
 
 # get a key at https://developer.gavagai.se/
 GAVAGAI_API_KEY = "YOUR_KEY"
@@ -31,14 +32,14 @@ def process_file_with_gavagai( filename ):
     req_params["texts"] = []
 
     # load file
-    lines = codecs.open( filename, encoding='utf-8' ).readlines()
-    
+    lines = sent_tokenize( unidecode( str( open( filename ).read() ) ) )
+
     used_lines = []
 
     for i,line in enumerate( lines ):
         if len( line ) > MINIMUM_LINE_LENGTH:
             req_params["texts"].append( { "id" : i, "body" : line.strip() } )
-            used_lines.append( line.strip() )
+            used_lines.append( unidecode( line.strip() ) )
 
     r = requests.post(GAVAGAI_TONALITY_ENDPOINT, data=json.dumps(req_params), headers=headers)
 
