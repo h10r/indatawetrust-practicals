@@ -1,0 +1,2 @@
+query = "Contra a terceirização do monitoramento da Amazônia"
+query = "amazonia AND terceirizacao AND monitoramento"
