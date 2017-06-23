@@ -1,11 +1,11 @@
 from collections import defaultdict
 
-node_header = "nodedef> name VARCHAR, label VARCHAR" # , location VARCHAR"
+node_header = "nodedef> name VARCHAR, label VARCHAR, followers DOUBLE" # , location VARCHAR"
 edge_header = "edgedef> user_to_name VARCHAR, user_from_name VARCHAR"
 
 user_follows = defaultdict(dict)
 
-for connection in open("petition_followers.tsv").readlines():
+for connection in open("../1_get_followers/petition_users_followers.tsv").readlines():
 	connection_parts = connection.strip().split("\t")
 
 	if len( connection_parts ) == 3:
@@ -24,7 +24,7 @@ for connection in open("petition_followers.tsv").readlines():
 print node_header
 
 for username, following in user_follows.items():
-	print username, ", ", username
+	print username, ",", username, ",", str( len(following) )
 
 print edge_header
 
